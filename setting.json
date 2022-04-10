@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://mangaku.site",
+  "target":"https://dramaqu.ink",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"mangaku.site",
+      "target":"dramaqu.ink",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
