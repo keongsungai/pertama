@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https:mangaku.site",
+  "target":"https://mangaku.site",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
