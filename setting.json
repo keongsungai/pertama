@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https:mangaku.site",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"m.tribunnews.com",
+      "target":"mangaku.site",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -46,7 +46,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"8Pgwn8p9y8NYsNJ97yagrlEDBhuErFEQ5Qwem-1Lihs"
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
