@@ -201,17 +201,10 @@
     {
       "name-element":"script",
       "data-attribute":[
-        {
-          "name-attribute":"async",
-          "value-attribute":"async"
-        },
+        
         {
           "name-attribute":"src",
-          "value-attribute":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-        },
-        {
-          "name-attribute":"data-ad-client",
-          "value-attribute":"ca-pub-XXXXXXXXXXX"
+          "value-attribute":"//modestknownspooky.com/1b/8a/19/1b8a190bc520c02b6d9e14e0e4f1c7ec.js"
         }
       ],
       "data-innerHTML":"",
